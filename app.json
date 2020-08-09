@@ -1,0 +1,12 @@
+{
+  "name": "albumsReactNative",
+  "displayName": "albumsReactNative",
+  "expo": {
+    "name": "albumsReactNative",
+    "slug": "albumsReactNative",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
